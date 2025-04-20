@@ -150,7 +150,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📬 Contact
 
-If you have any questions or feedback, feel free to contact [yourname@domain.com].
+If you have any questions or feedback, feel free to contact [adham.allam.x@gmail.com].
 
 ---
 
