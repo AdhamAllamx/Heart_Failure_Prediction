@@ -115,7 +115,7 @@ The dataset includes 11 key features about a patient’s health and the target v
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/your-username/heart-failure-prediction.git
+git clone https://github.com/AdhamAllamx/heart-failure-prediction.git
 
 # 2. Install required packages
 pip install -r requirements.txt
